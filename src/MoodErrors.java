@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class MoodErrors {
+public enum MoodErrors {
+    NULL_MESSAGE, EMPTY_MESSAGE, OTHER
 }
