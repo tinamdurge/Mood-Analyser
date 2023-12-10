@@ -1,4 +1,4 @@
-public class Mood extends Throwable {
+Ability to handle public class Mood extends Throwable {
     /*
      * @name : MoodType
      * @desc: Enum to store the mood types
